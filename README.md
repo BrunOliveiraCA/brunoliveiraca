@@ -1,19 +1,19 @@
-# Olá, eu me chamo Bruno 👋
+# Hello, my name is Bruno! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/seuusuario?label=Follow&style=social)](https://github.com/brunoliveiraca)
 [![Linkedin: BrunOliveiraCA](https://img.shields.io/badge/-BrunOliveiraCA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoliveiraca/)](https://www.linkedin.com/in/brunoliveiraca/)
 
-Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por Web e Mobile, e sempre estou em busca de novos desafios e aprendizados.
+Welcome to my GitHub profile! I'm a developer passionate about the Mobile ecosystem.
 
-### 👨‍💻 Sobre mim:
-- 🔭 Atualmente trabalhando em: Projetos pessoais.
-- 🌱 Aprendendo atualmente: NextJS, ReactJS e React Native.
-- 💬 Pergunte-me sobre: Desenvolvimento web e mobile.
-- 📫 Como me encontrar: brunoliveira.ca@gmail.com | +55 (54)98405-2348 (Whatsapp)
+### 👨‍💻 About me:
+- 🔭 Currently working on: Personal projects.
+- 🌱 Currently learning: Android Development, Kotlin, Jetpack Compose and Firebase.
+- 💬 Ask me about: Mobile development and job offers.
+- 📫 How to find me: brunoliveira.ca@gmail.com | +55 (54)98405-2348 (Whatsapp and Telegram).
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
+### 🚀 Technologies and Tools:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -31,10 +31,10 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por Web e 
 
 ---
 
-### 📂 Projetos:
-- [Projeto 1]([link para o repositório](https://github.com/BrunOliveiraCA/travel-app)): Web App feito em NextJS e TailwindCSS que representa um guia de viagem.
+### 📂 Projects:
+- [Project 1]([link to repository](https://github.com/BrunOliveiraCA/travel-app)): Web App made with NextJS and TailwindCSS that represents a travel guide.
 
 ---
 
-### 🌎 Vamos Conectar:
+### 🌎 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/brunoliveiraca/)

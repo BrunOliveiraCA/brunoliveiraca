@@ -20,17 +20,7 @@ Welcome to my GitHub profile! I'm a developer passionate about the Mobile ecosys
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-
-### 📈 GitHub Stats:
-![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoliveiraca&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiraca&layout=compact)](https://github.com/brunoliveiraca)
-
----
-
-### 📂 Projects:
-- [Project 1]([link to repository](https://github.com/BrunOliveiraCA/travel-app)): Web App made with NextJS and TailwindCSS that represents a travel guide.
+![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 

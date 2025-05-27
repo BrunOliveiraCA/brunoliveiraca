@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate Software Developer currently focu
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on: Personal and collaborative projects using **React Native**, **Kotlin**, and **Java**;
-- 🌱 Learning: Native Android development with **Kotlin**, **React Native**, and backend development with **Java** + **Spring Boot**;
+- 🔭 Working on: Personal and collaborative projects using **React**, **React Native**, and **Java**;
+- 🌱 Learning: Backend development with **Java** + **Spring Boot**;
 - 📫 Reach me at: brunoliveira.ca@gmail.com | +55 (54) 98405-2348 *(WhatsApp)*
 
 ---
